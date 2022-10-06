@@ -1,4 +1,4 @@
-This is a tutorial documentation!
+This is a trial for preparing documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers

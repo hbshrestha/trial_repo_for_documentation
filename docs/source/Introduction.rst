@@ -6,7 +6,7 @@ Usage
 Installation
 ------------
 
-Hi I am Himalaya.
+Hi I am Himalaya Bir Shrestha.
 
 .. image:: images\himalaya.jpg
 .. code-block:: console
