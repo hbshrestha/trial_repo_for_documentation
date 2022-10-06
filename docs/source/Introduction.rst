@@ -1,4 +1,4 @@
-Usage
+Link1
 =====
 
 .. _installation:
@@ -8,7 +8,7 @@ Installation
 
 Hi I am Himalaya Bir Shrestha.
 
-.. image:: images\himalaya.jpg
+.. image:: images/himalaya.jpg
 .. code-block:: console
 
    (.venv) $ pip install lumache

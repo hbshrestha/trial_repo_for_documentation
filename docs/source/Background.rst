@@ -1,4 +1,4 @@
-API
+Link2
 ===
 
 This is a background page.
