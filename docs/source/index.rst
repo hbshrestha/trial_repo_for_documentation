@@ -2,7 +2,7 @@ This is a trial for preparing documentation!
 ===================================
 
 Check out the :doc:`Introduction` section for introduction
-how to :ref:`Background` for the background of the project.
+and the :doc:`Background` section for the background of the project.
 
 .. note::
 

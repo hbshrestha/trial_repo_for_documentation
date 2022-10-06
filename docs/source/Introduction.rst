@@ -1,9 +1,9 @@
 Link1
 =====
 
-.. _installation:
+.. _introduction:
 
-Installation
+Introduction
 ------------
 
 Hi I am Himalaya Bir Shrestha.
